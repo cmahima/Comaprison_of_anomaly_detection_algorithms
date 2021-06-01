@@ -1,5 +1,5 @@
 
-Code for comparison of PIDForest, KNN, DTM and other algorithm for anomaly detection om basis of AUC-ROC score and AP score
+Code for comparison of PIDForest, KNN, DTM and other algorithms for anomaly detection om basis of AUC-ROC score and AP score
 
 The [accompanying paper ](https://papers.nips.cc/paper/9274-statistical-analysis-of-nearest-neighbor-methods-for-anomaly-detection.pdf) for DTM explains the algorithm and gives a comparitive study on benchmark algorithms.
 
